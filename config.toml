@@ -56,7 +56,7 @@ weight = 10
   url = 'index.xml'
 
   [params.editPost]
-  URL = "https://github.com/t12y/blog/tree/master/content"
+  URL = "https://github.com/t12y/t12y.github.io/tree/main/content"
   Text = "Suggest Changes"
   appendFilePath = true
 
