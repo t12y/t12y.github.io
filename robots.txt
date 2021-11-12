@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.t12y.dev/sitemap.xml

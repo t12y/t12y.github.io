@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Thought Foundry Engineering</title>
+    <link>https://www.t12y.dev/tags/</link>
+    <description>Recent content in Tags on Thought Foundry Engineering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2021 Thought Foundry, Inc.</copyright>
+    <lastBuildDate>Thu, 11 Nov 2021 16:14:06 -0500</lastBuildDate><atom:link href="https://www.t12y.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cloud</title>
+      <link>https://www.t12y.dev/tags/cloud/</link>
+      <pubDate>Thu, 11 Nov 2021 16:14:06 -0500</pubDate>
+      
+      <guid>https://www.t12y.dev/tags/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open source</title>
+      <link>https://www.t12y.dev/tags/open-source/</link>
+      <pubDate>Thu, 11 Nov 2021 16:14:06 -0500</pubDate>
+      
+      <guid>https://www.t12y.dev/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

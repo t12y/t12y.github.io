@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Thought Foundry Engineering</title>
+    <link>https://www.t12y.dev/</link>
+    <description>Recent content on Thought Foundry Engineering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2021 Thought Foundry, Inc.</copyright>
+    <lastBuildDate>Thu, 11 Nov 2021 16:14:06 -0500</lastBuildDate><atom:link href="https://www.t12y.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://www.t12y.dev/posts/hello-world/</link>
+      <pubDate>Thu, 11 Nov 2021 16:14:06 -0500</pubDate>
+      
+      <guid>https://www.t12y.dev/posts/hello-world/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;re the engineering team at Thought Foundry, Inc. We&amp;rsquo;re a small, distributed group primarily focused on media and entertainment.&lt;/p&gt;</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
