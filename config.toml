@@ -1,0 +1,66 @@
+baseURL = 'https://www.t12y.dev/'
+languageCode = 'en-us'
+title = 'Thought Foundry Engineering'
+theme = 'PaperMod'
+copyright = '&copy; 2021 Thought Foundry, Inc.'
+enableRobotsTXT = true
+paginate = 5
+
+[minify]
+disableXML = true
+
+[outputs]
+home = [ 'HTML', 'RSS', 'JSON' ]
+
+[[menu.main]]
+name = 'Archive'
+url = 'archives'
+weight = 5
+
+[[menu.main]]
+name = 'Search'
+url = 'search/'
+weight = 10
+
+[[menu.main]]
+name = 'Tags'
+url = 'tags/'
+weight = 10
+
+[[menu.main]]
+name = 'Categories'
+url = 'categories/'
+weight = 10
+
+[params]
+  defaultTheme = 'auto'
+  ShowReadingTime = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowPostNavLinks = true
+  ShowToc = true
+  TocOpen = true
+
+  [params.homeInfoParams]
+  Title = 'T12Y Tech Blog'
+  Content = '''Tech articles shared by the engineers at Thought Foundry, Inc.
+  - <strong>T</strong><em>12</em><strong>Y</strong> &rarr; <strong>T</strong> &nbsp;<em>h</em><span style="font-size:.5em"><sub>1</sub></span> &nbsp;<em>o</em><span style="font-size:.5em"><sub>2</sub></span> &nbsp;<em>u</em><span style="font-size:.5em"><sub>3</sub></span> &nbsp;<em>g</em><span style="font-size:.5em"><sub>4</sub></span> &nbsp;<em>h</em><span style="font-size:.5em"><sub>5</sub></span> &nbsp;<em>t</em><span style="font-size:.5em"><sub>6</sub></span> &nbsp; <em>F</em><span style="font-size:.5em"><sub>7</sub></span> &nbsp;<em>o</em><span style="font-size:.5em"><sub>8</sub></span> &nbsp;<em>u</em><span style="font-size:.5em"><sub>9</sub></span> &nbsp;<em>n</em><span style="font-size:.5em"><sub>10</sub></span> &nbsp;<em>d</em><span style="font-size:.5em"><sub>11</sub></span> &nbsp;<em>r</em><span style="font-size:.5em"><sub>12</sub></span> &nbsp;<strong>Y</strong>
+  '''
+
+  [[params.socialIcons]]
+  name = 'github'
+  url = 'https://github.com/t12y'
+
+  [[params.socialIcons]]
+  name = 'RSS'
+  url = 'index.xml'
+
+  [params.editPost]
+  URL = "https://github.com/t12y/blog/tree/master/content"
+  Text = "Suggest Changes"
+  appendFilePath = true
+
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
